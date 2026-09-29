@@ -4,9 +4,10 @@
 
 ### IT Engineering Student · Backend & Full-Stack Development · DSA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sah-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adityasah15/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-adityasah15-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/adityasah15/)
-[![Codolio](https://img.shields.io/badge/Codolio-adityasah-111827?style=flat)](https://codolio.com/profile/adityasah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sah-blue?logo=linkedin)](https://linkedin.com/in/adityasah15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-adityasah15-orange?logo=leetcode)](https://leetcode.com/u/adityasah15)
+[![Codolio](https://img.shields.io/badge/Codolio-adityasah-blue)](https://codolio.com/profile/adityasah)
+[![Profile Views](https://komarev.com/ghpvc/?username=adityasah15&color=7952b3&style=flat-square)](https://github.com/adityasah15)
 [![Email](https://img.shields.io/badge/Email-adityasah0156%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:adityasah0156@gmail.com)
 
 </div>
